@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Forex</string>
+    <string name="AEDshort">AED</string>
+    <string name="AEDlong">Arab Emirates Dirham</string>
+    <string name="BTCshort">BTC</string>
+    <string name="BTClong">Bitcoin</string>
+    <string name="CADshort">CAD</string>
+    <string name="CADlong">Canadian Dollar</string>
+    <string name="CNYshort">CNY</string>
+    <string name="CNYlong">Chinese Yuan"</string>
+    <string name="CLPshort">CLP</string>
+    <string name="CLPlong">Chilean Peso</string>
+    <string name="EGPshort">EGP</string>
+    <string name="EGPlong">Egyptian Pound</string>
+    <string name="EURshort">EUR</string>
+    <string name="EURlong">Euro</string>
+    <string name="IDRshort">IDR</string>
+    <string name="IDRlong">Indonesian Rupiah</string>
+    <string name="MADshort">MAD</string>
+    <string name="MADlong">Moroccan Dirham</string>
+    <string name="SARshort">SAR</string>
+    <string name="SARlong">Saudi Riyal</string>
+    <string name="colon"> : </string>
+</resources>
